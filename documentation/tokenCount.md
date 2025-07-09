@@ -17,7 +17,7 @@ This service is designed as an HTTP-triggered cloud function and requires an API
 
 ## Authentication
 
-This API is protected and requires a valid API key to be passed in the `X-API-Key` header of each request. Please use the API key that was assigned to you.
+This API is protected and requires a valid API key to be passed in the `X-API-Key` header of each request. Please use the API key that was assigned to you. Contact jr@presto.consulting for API keys.
 
 | Header      | Description              |
 | :---------- | :----------------------- |
