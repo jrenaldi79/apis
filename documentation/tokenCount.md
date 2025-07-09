@@ -10,7 +10,7 @@ This service is designed as an HTTP-triggered cloud function and requires an API
 
 ## Endpoint
 
-**URL**: `[YOUR_CLOUD_FUNCTION_URL]`  
+**URL**: `https://us-central1-northwestern-sandbox.cloudfunctions.net/tokenize-text`  
 **Method**: `POST`
 
 ---
